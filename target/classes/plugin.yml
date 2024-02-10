@@ -1,0 +1,7 @@
+name: GM-Test
+version: 1.0.0
+main: net.ianboy10.gmtest.main.Main
+
+commands:
+  setsn:
+  checksn:
